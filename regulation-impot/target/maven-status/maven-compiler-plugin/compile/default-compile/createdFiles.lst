@@ -1,0 +1,14 @@
+sn\groupeisi\regulationimpot\service\DeclarantService.class
+sn\groupeisi\regulationimpot\RegulationImpotApplication.class
+sn\groupeisi\regulationimpot\service\DeclarationService.class
+sn\groupeisi\regulationimpot\web\DeclarantController.class
+sn\groupeisi\regulationimpot\repositories\PaiementRepository.class
+sn\groupeisi\regulationimpot\service\PaiementService.class
+sn\groupeisi\regulationimpot\entities\Declaration.class
+sn\groupeisi\regulationimpot\web\DeclarationController.class
+sn\groupeisi\regulationimpot\entities\Declarant.class
+sn\groupeisi\regulationimpot\repositories\DeclarantRepository.class
+sn\groupeisi\regulationimpot\web\TestController.class
+sn\groupeisi\regulationimpot\entities\Paiement.class
+sn\groupeisi\regulationimpot\repositories\DeclarationRepository.class
+sn\groupeisi\regulationimpot\web\PaiementController.class
